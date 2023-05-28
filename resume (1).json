@@ -1,0 +1,215 @@
+{
+  "selectedTemplate": 7,
+  "headings": {
+    "awards": "About",
+    "education": "Pendidikan",
+    "work": "Pengalaman",
+    "skills": "Skillset",
+    "projects": "Project"
+  },
+  "basics": {
+    "name": "Novian Andika",
+    "email": "zane.227@gmail.com",
+    "phone": "+6283840663610",
+    "location": {
+      "address": "Yogyakarta, Indonesia"
+    },
+    "website": "linkedin.com/in/fleetime"
+  },
+  "education": [
+    {
+      "area": "Computer Science",
+      "endDate": "2021",
+      "gpa": "3.83",
+      "institution": "Univesitas AMIKOM Yogyakarta",
+      "location": "Sleman ",
+      "studyType": "Diploma",
+      "startDate": "2018"
+    },
+    {
+      "institution": "SMK Cyber Media ",
+      "location": "Duren Tiga, Jakarta Selatan",
+      "startDate": "2012",
+      "endDate": "2015",
+      "studyType": "Graduated",
+      "area": "Computer and Network Engineering"
+    }
+  ],
+  "work": [
+    {
+      "website": "",
+      "highlights": [
+        "Membangun REST API untuk disambungkan ke Flutter menggunakan NestJS",
+        "Integrasi Firebase ke NestJS (Authentication dan Cloud Messaging)",
+        "Mengonversi formula spreadsheet excel ke dalam Dart",
+        "Membangun antarmuka aplikasi dengan Flutter mulai dari slicing, state management, unit testing  ",
+        "Mempublikasikan Aplikasi ke Play Store dengan Play Console",
+        "Membuat website dokumentasi aplikasi untuk keperluan user guide ",
+        "Mendokumentasikan REST API dengan Swagger",
+        "Menbangun aplikasi E Learning menggunakan React dan Golang",
+        "Menerapkan Clean Architecture pada golang agar code lebih maintanable "
+      ],
+      "company": "PT Bank BPD DIY",
+      "position": "Programmer",
+      "location": "BPD DIY BANK Headquarter",
+      "startDate": "2021",
+      "endDate": "Sekarang"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Flutter",
+      "level": "",
+      "keywords": [
+        "Layouting dan Slicing dari Figma menjadi UI Aplikasi",
+        "Integrasi API dan Firebase",
+        "Dapat menggunakan state management GetX dan Riverpod"
+      ]
+    },
+    {
+      "keywords": [
+        "Mampu dan mengerti Typescript dan web framework Express untuk membuat backend Aplikasi yang nantinya akan dikonsumsi oleh Flutter"
+      ],
+      "name": "Express"
+    },
+    {
+      "keywords": [
+        "Mampu mengaplikasikan berbagain macam modul firebase seperti Authentication, Firestore dan Cloud Messaging"
+      ],
+      "name": "Firebase"
+    },
+    {
+      "keywords": [
+        "Dapat mengimplementasikan pipeline CI/CD menggunakan Github Actions agar flow dan jalannya development aplikasi menjadi efisien"
+      ],
+      "name": "CI/CD"
+    },
+    {
+      "keywords": [
+        "Mengerti mengoperasikan query basic sampai advanced (JOIN, INNER JOIN, LEFT JOIN), Mengerti basic relasional database ( 1:1, 1:N, M:N)",
+        "Dapat menggunakan berbagai macam jenis database dari relasional dan NO SQL"
+      ],
+      "name": "Database "
+    },
+    {
+      "keywords": [
+        "Mahir dalam penggunaan bahasa pemrograman Golang untuk mengembangkan REST API menggunakan framework GIN dan FIBER. Mampu mengoptimalkan penggunaan framework dengan menerapkan (clean architecture) guna memudahkan pemeliharaan dan penskalaan."
+      ],
+      "name": "Golang"
+    },
+    {
+      "keywords": [
+        "Terampil dalam penggunaan Docker untuk melakukan kontainerisasi aplikasi, sehingga memungkinkan aplikasi berjalan secara konsisten di berbagai device"
+      ],
+      "name": "Docker"
+    },
+    {
+      "keywords": [
+        "Mahir dalam pengembangan tampilan depan (frontend) website menggunakan JavaScript library React. Memiliki pengalaman dalam membangun komponen-komponen interaktif yang responsif, memanfaatkan kekuatan dari React untuk menciptakan antarmuka pengguna yang menarik dan mudah digunakan."
+      ],
+      "name": "React"
+    },
+    {
+      "keywords": [
+        "Terampil dalam mengembangkan aplikasi web full-stack menggunakan framework React Next.js. Memiliki pengalaman yang kuat dalam memanfaatkan keunggulan Next.js untuk menghasilkan aplikasi web yang cepat, tanggap, dan SEO-friendly."
+      ],
+      "name": "Next JS"
+    },
+    {
+      "keywords": [
+        "Terampil dalam penggunaan sistem operasi Linux untuk keperluan penginstalan web server, serta melakukan konfigurasi load balancing."
+      ],
+      "name": "Linux"
+    }
+  ],
+  "projects": [
+    {
+      "keywords": [
+        "Flutter",
+        "NestJS",
+        "Express",
+        "Firebase",
+        "Cloudinary"
+      ],
+      "name": "Analisis Kredit Mikro",
+      "description": "Aplikasi untuk menganalisis CRR (Credit Risk Rating) debitur untuk mengetahui kelayakannya",
+      "url": "https://play.google.com/store/apps/details?id=com.akm.fleetime"
+    },
+    {
+      "keywords": [
+        "NestJS",
+        "PostgreSQL",
+        "Firebase"
+      ],
+      "name": "Analisis Kredit Mikro Webservice",
+      "description": "Backend Analisis Kredit Mikro"
+    },
+    {
+      "keywords": [
+        "Flutter",
+        "Dart",
+        "Bloc",
+        "PHP"
+      ],
+      "name": "Huixin",
+      "description": " Aplikasi interaktif yang bertujuan untuk belajar bahasa Mandarin dilengkapi dengan kursus berbicara (Speaking Course) dan kursus membaca (Reading Course).",
+      "url": "https://play.google.com/store/apps/details?id=id.huixin.android"
+    },
+    {
+      "keywords": [
+        "Flutter Web",
+        null
+      ],
+      "name": "Nicky's Invitation ",
+      "description": "Undangan Digital untuk mengundang para tamu untuk acara khitanan ",
+      "url": "https://undangan-nicky.netlify.app/"
+    },
+    {
+      "keywords": [
+        "Flutter",
+        "Dart",
+        null
+      ],
+      "name": "DRW Skincare - Agent",
+      "description": "Aplikasi Mobile internal untuk agent DRW Skincare agar memudahkan untuk membeli keperluan produk reseller"
+    },
+    {
+      "keywords": [
+        "React",
+        "Golang"
+      ],
+      "name": "E Learning BPD DIY",
+      "description": "Aplikasi Web E learning BPD dibuat menggunakan React dan Golang sebagai servernya serta menggunakan clean architecture supaya gampang di maintain dan di scaleup"
+    },
+    {
+      "keywords": [
+        "Flutter",
+        "Dart"
+      ],
+      "name": "HRIMS BPD DIY",
+      "description": "Remake aplikasi HRMIS BPD DIY menggunakan Flutter, supaya dapat multi platform untuk segala device termasuk untuk iPhone"
+    },
+    {
+      "keywords": [
+        ""
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": "Developer Web dan Flutter (Android & iOS) dengan 1 tahun pengalaman professional bekerja di  Perusahaan Perbankan dengan spesialisasi pembuatan dan pengembangan software Layanan Finansial, Investasi, Asuransi, dan Perkreditan. Menekuni di bidang Web Development (Typescript, REST API) dan juga Mobile Development (Flutter).  Memahami berbagai metodologi pengembangan software seperti Agile, dan SCRUM.  Memiliki pemikiran yang kritis, berorientasi detail, kemampuan komunikasi dan besosialisasi yang baik sehingga mampu bekerja baik secara tim maupun individu serta ingin terus belajar hal hal yang baru."
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "awards",
+    "education",
+    "work",
+    "skills",
+    "projects"
+  ]
+}
